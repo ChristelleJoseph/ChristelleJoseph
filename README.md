@@ -4,7 +4,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/christellejoseph/)
 
-👋 Hello, I'm a tech professional with a diverse background:
+A tech professional with a very diverse background:
 
 🖥️ 10+ years in software engineering, honing my skills in crafting robust and scalable solutions.
 
