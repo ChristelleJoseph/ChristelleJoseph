@@ -25,7 +25,7 @@
   </a> -->
 
   <a href="https://github.com/ChristelleJoseph/Aria-ai" style="flex: 0 0 48%; margin-bottom: 1rem;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=christellejoseph&repo=aria-ai&title_color=FF69B4&text_color=FFA500&icon_color=4AB197&bg_color=F4E1F9"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=christellejoseph&repo=aria-ai&title_color=FF69B4&text_color=FFA500&icon_color=4AB197&bg_color=1A2B34"/>
 </a>
 
   <!-- <a href="https://github.com/ChristelleJoseph/Vulnerability-Management" style="flex: 0 0 48%; margin-bottom: 1rem;">
@@ -33,7 +33,7 @@
   </a> -->
 
 <a href="https://github.com/ChristelleJoseph/Vulnerability-Management" style="flex: 0 0 48%; margin-bottom: 1rem;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=christellejoseph&repo=Vulnerability-Management&title_color=FF69B4&text_color=FFA500&icon_color=4AB197&bg_color=F4E1F9"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=christellejoseph&repo=Vulnerability-Management&title_color=FF69B4&text_color=FFA500&icon_color=4AB197&bg_color=1A2B34"/>
 </a>
 
 
