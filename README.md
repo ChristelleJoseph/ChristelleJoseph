@@ -1,16 +1,14 @@
-## Hi i'm Christelle 👋
+![Christelle's GitHub Banner](./assets/banner.png)
 
-<!--
-**ChristelleJoseph/ChristelleJoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/christellejoseph/)
 
-Here are some ideas to get you started:
+I'm a software engineer, with a master's in cybersecurity.
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Pinned Repositories
+---
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+  <a href="https://github.com/ChristelleJoseph/Vulnerability-Management" style="flex: 0 0 48%; margin-bottom: 1rem;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristelleJoseph&repo=Vulnerability-Management&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
+  </a>
