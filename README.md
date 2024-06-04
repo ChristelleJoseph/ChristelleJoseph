@@ -2,6 +2,8 @@
 
 ![Christelle's GitHub Banner](./assets/banner7.png)
 
+<br>
+
 A tech professional with a very diverse background:
 
 🖥️ 10+ years in software engineering, honing my skills in crafting robust and scalable solutions.
