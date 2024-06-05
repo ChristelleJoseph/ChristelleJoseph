@@ -6,7 +6,7 @@
 
 A tech professional with a very diverse background:
 
-🖥️ 10+ years in software engineering, honing my skills in crafting robust and scalable solutions.
+🖥️ 10 years in software engineering, honing my skills in crafting robust and scalable solutions.
 
 🔒 Equipped with a Master's degree in Cybersecurity, I prioritize building secure and resilient systems.
 
