@@ -16,7 +16,7 @@ A tech professional with a very diverse background:
 
 <br>
 
-📌 Cybersecurity
+🔐 Cybersecurity
 ---
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
@@ -40,7 +40,7 @@ A tech professional with a very diverse background:
   </div>
 
 
-📌 Music & Entertainment
+🎹 Music & Entertainment
 ---
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
