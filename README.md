@@ -16,7 +16,7 @@ A tech professional with a very diverse background:
 
 <br>
 
-📌 Pinned Repositories
+📌 Cybersecurity
 ---
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
@@ -28,9 +28,6 @@ A tech professional with a very diverse background:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=christellejoseph&repo=Vulnerability-Management&title_color=FF69B4&text_color=FFA500&icon_color=90EE92&bg_color=1A2B34"/>
 </a>
 
-  <a href="https://github.com/ChristelleJoseph/Aria-ai" style="flex: 0 0 48%; margin-bottom: 1rem;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=christellejoseph&repo=aria-ai&title_color=FF69B4&text_color=FFA500&icon_color=90EE92&bg_color=1A2B34"/>
-</a>
 
   <a href="https://github.com/ChristelleJoseph/PhishingEmailDetection" style="flex: 0 0 48%; margin-bottom: 1rem;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=christellejoseph&repo=PhishingEmailDetection&title_color=FF69B4&text_color=FFA500&icon_color=90EE90&bg_color=1A2B34"/>
@@ -40,12 +37,15 @@ A tech professional with a very diverse background:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=christellejoseph&repo=Vulnerability-Management&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
   </a> -->
 
+  </div>
 
 
+📌 Music & Entertainment
+---
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
-
-
-
-
+<a href="https://github.com/ChristelleJoseph/Aria-ai" style="flex: 0 0 48%; margin-bottom: 1rem;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=christellejoseph&repo=aria-ai&title_color=FF69B4&text_color=FFA500&icon_color=90EE92&bg_color=1A2B34"/>
+</a>
 
 </div>
