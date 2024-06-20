@@ -43,4 +43,8 @@ A tech professional with a very diverse background:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=christellejoseph&repo=aria-ai&title_color=FF69B4&text_color=FFA500&icon_color=90EE92&bg_color=1A2B34"/>
 </a>
 
+<a href="https://github.com/ChristelleJoseph/Songs-Sentiment-Analysis" style="flex: 0 0 48%; margin-bottom: 1rem;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=christellejoseph&repo=Songs-Sentiment-Analysis&title_color=FF69B4&text_color=FFA500&icon_color=90EE92&bg_color=1A2B34"/>
+</a>
+
 </div>
